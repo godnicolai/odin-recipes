@@ -26,3 +26,8 @@ body {
   border-radius: 20px;
   padding: 32px;
 }
+
+img {
+  width: 350px;
+  border-radius: 20px;
+}
