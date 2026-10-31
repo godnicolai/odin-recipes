@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  color: #fbe9d0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  background-color: #90aead;
+  color: #664930;
+  width: 700px;
+  margin: 0 auto;
+}
+
+.home {
+  background-color: #864f42;
+  border: 1px solid white;
+  border-radius: 20px;
+  width: 500px;
+  margin: auto;
+  padding: 16px;
+}
+
+.card {
+  background-color: #864f42;
+  border: 1px solid white;
+  border-radius: 20px;
+  padding: 32px;
+}
