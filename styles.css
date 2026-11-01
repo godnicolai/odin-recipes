@@ -11,6 +11,10 @@ body {
   margin: 0 auto;
 }
 
+a {
+  text-decoration: none;
+}
+
 .home {
   background-color: #864f42;
   border: 1px solid white;
